@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Bader Klila</h1>
 <h3 align="center">A passionate full stack developer from Tunisia</h3>
 
-- 🌱 I’m currently learning **ReactJs and NestJs**
+- 🌱 I’m currently learning **NextJs**
 
 - 📫 How to reach me **klilabader2@gmail.com**
 <img src="https://media2.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.gif?cid=ecf05e47fkxho92qiup96ixo5pd4r5u4yfhk5vwwh60tlk72&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Placeholder Image" align="right" width="400" height="400">
 
-- 📄 Know about my experiences in <a href="https://drive.google.com/file/d/1H6mk0qcxmYiXCEZZX6_9Wlb3_PPTkcPg/view?usp=sharing">My CV </a>
+- 📄 Know about my experiences in <a href="https://drive.google.com/file/d/1H6mk0qcxmYiXCEZZX6_9Wlb3_PPTkcPg/view?usp=sharing" target="blank" >My CV </a>
 
 <h3 align="left">Connect with me:</h3>
 
@@ -17,7 +17,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 
-<p align="left" class="bg-red"> 
+<p align="left" > 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/> 
