@@ -5,7 +5,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bader-klila-b60396225/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:klilabader2@gmail.com)
-[![CV](https://drive.google.com/file/d/1lph4flBOmhXerJcgkQ90iyvYiMQciiEi/view?usp=drive_link)
+[![CV](https://img.shields.io/badge/My_CV-00B37E?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1lph4flBOmhXerJcgkQ90iyvYiMQciiEi/view?usp=drive_link)
 
 </div>
 
