@@ -5,7 +5,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bader-klila-b60396225/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:klilabader2@gmail.com)
-[![CV](https://img.shields.io/badge/My_CV-00B37E?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1H6mk0qcxmYiXCEZZX6_9Wlb3_PPTkcPg/view?usp=sharing)
+[![CV](https://drive.google.com/file/d/1lph4flBOmhXerJcgkQ90iyvYiMQciiEi/view?usp=drive_link)
 
 </div>
 
@@ -17,7 +17,6 @@ I'm a Full Stack & Mobile Developer based in Tunisia, with hands-on experience b
 
 I work across the full stack — from crafting responsive frontends to designing backend APIs and integrating databases. I've also worked with Web3 and IoT, and I'm comfortable picking up new technologies fast.
 
-- 🔭 Currently building an **Employee Time Management Platform** (Next.js 15 + PostgreSQL)
 - 💬 Ask me about **React, Next.js, React Native, TypeScript, Node.js**
 - 🌍 Available for: **freelance · contracts · full-time · internships**
 - 📫 **klilabader2@gmail.com**
