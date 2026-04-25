@@ -68,11 +68,10 @@ I work across the full stack — from crafting responsive frontends to designing
 
 <div align="center">
 
-![Bader's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BadrFTW&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=BadrFTW&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BadrFTW&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BadrFTW&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=BadrFTW&theme=tokyonight&hide_border=true)
+<img width="100%" src="https://streak-stats.demolab.com?user=BadrFTW&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly" />
 
 </div>
 
