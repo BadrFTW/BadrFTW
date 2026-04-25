@@ -5,7 +5,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bader-klila-b60396225/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:klilabader2@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BadrFTW)
 
 </div>
 
@@ -13,38 +12,39 @@
 
 ## 👨‍💻 About Me
 
-4th-year Computer Science Engineering student at **ESPRIT**, Tunisia.
-I build modern web and mobile applications — from concept to deployment.
-Currently seeking a **Full Stack Web internship** (Summer 2026).
+I'm a Full Stack & Mobile Developer based in Tunisia, with hands-on experience building modern web and mobile applications end-to-end.
 
-- 🔭 Currently working on an **Employee Time Management Platform** (Next.js 15 + PostgreSQL)
-- 🌱 Deepening expertise in **TypeScript**, **Next.js**, and **system architecture**
-- 💬 Ask me about **React, Next.js, React Native, Node.js, Web3**
-- 📫 Reach me at **klilabader2@gmail.com**
-- 🌍 Open to: **Tunisia · Remote · Worldwide relocation**
+I work across the full stack — from crafting responsive frontends to designing backend APIs and integrating databases. I've also worked with Web3 and IoT, and I'm comfortable picking up new technologies fast.
+
+- 🔭 Currently building an **Employee Time Management Platform** (Next.js 15 + PostgreSQL)
+- 💬 Ask me about **React, Next.js, React Native, TypeScript, Node.js**
+- 🌍 Available for: **freelance work · contracts · full-time roles · internships**
+- 📫 **klilabader2@gmail.com**
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 ### ⏱️ Employee Time Management Platform
-> Full Stack · Next.js 15 · TypeScript · PostgreSQL · Tailwind CSS
+> Next.js 15 · TypeScript · PostgreSQL · Tailwind CSS
 
 HR platform built solo — real-time time tracking, automated timesheets, Kanban dashboards, and role-based access control.
 
 ---
 
 ### 🚲 Smart Bike Control App
-> Mobile · React Native · Firebase · Solidity · Web3
+> React Native · Firebase · Solidity · Web3
 
-IoT bike control app with Firebase real-time data sync and Solidity smart contracts for a Web3 user rewards system.
+IoT bike control app with Firebase real-time data and Solidity smart contracts for a Web3 rewards system.
 
 ---
 
 ### 📋 Internship Management System
-> Full Stack · PHP · MySQL · JavaScript
+> PHP · MySQL · JavaScript
 
-End-to-end internship management platform with offer listings, applications, and student tracking — built from scratch.
+End-to-end internship management platform with offer listings, student applications, and tracking — built from scratch.
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/BadrFTW/intern_sys)
 
 ---
 
@@ -88,23 +88,6 @@ End-to-end internship management platform with offer listings, applications, and
 
 ---
 
-## 💼 Experience
-
-| Period | Role | Company |
-|--------|------|---------|
-| 2025 · 2 months | Full Stack Developer Intern | NextGen Coding |
-| 2024 · 4 months | Mobile Developer Intern | Wheelz |
-| 2023 · 2 months | Web Developer Intern | NOBI & DRE |
-
----
-
-## 🎓 Education
-
-- 🎓 **Engineering Degree in CS** — ESPRIT, Tunis *(2024 – present)*
-- 🎓 **Bachelor's in CS** — ISIMM, Monastir *(2021 – 2024)*
-
----
-
 ## 🌐 Languages
 
 🇸🇦 Arabic (Native) · 🇫🇷 French (Professional) · 🇬🇧 English (Professional)
@@ -112,9 +95,10 @@ End-to-end internship management platform with offer listings, applications, and
 ---
 
 <div align="center">
-  
-*Always open to interesting projects and collaboration. Let's build something.*
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bader-klila-b60396225/)
+*Open to freelance projects, collaborations, and new opportunities.*
+
+[![Email Me](https://img.shields.io/badge/Get_In_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:klilabader2@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bader-klila-b60396225/)
 
 </div>
