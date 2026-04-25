@@ -5,6 +5,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bader-klila-b60396225/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:klilabader2@gmail.com)
+[![CV](https://img.shields.io/badge/My_CV-00B37E?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1H6mk0qcxmYiXCEZZX6_9Wlb3_PPTkcPg/view?usp=sharing)
 
 </div>
 
@@ -18,33 +19,8 @@ I work across the full stack — from crafting responsive frontends to designing
 
 - 🔭 Currently building an **Employee Time Management Platform** (Next.js 15 + PostgreSQL)
 - 💬 Ask me about **React, Next.js, React Native, TypeScript, Node.js**
-- 🌍 Available for: **freelance work · contracts · full-time roles · internships**
+- 🌍 Available for: **freelance · contracts · full-time · internships**
 - 📫 **klilabader2@gmail.com**
-
----
-
-## 🚀 Projects
-
-### ⏱️ Employee Time Management Platform
-> Next.js 15 · TypeScript · PostgreSQL · Tailwind CSS
-
-HR platform built solo — real-time time tracking, automated timesheets, Kanban dashboards, and role-based access control.
-
----
-
-### 🚲 Smart Bike Control App
-> React Native · Firebase · Solidity · Web3
-
-IoT bike control app with Firebase real-time data and Solidity smart contracts for a Web3 rewards system.
-
----
-
-### 📋 Internship Management System
-> PHP · MySQL · JavaScript
-
-End-to-end internship management platform with offer listings, student applications, and tracking — built from scratch.
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/BadrFTW/intern_sys)
 
 ---
 
@@ -85,6 +61,20 @@ End-to-end internship management platform with offer listings, student applicati
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Bader's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BadrFTW&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BadrFTW&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=BadrFTW&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
